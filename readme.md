@@ -1,6 +1,7 @@
-### 1. Input your list name on "list.txt":
+### 1. Input your list name on "list.txt"
 
-### 2. execute the script with NodeJS:
+### 2. Execute the script with NodeJS:
+
 
 ```
 node re.je
